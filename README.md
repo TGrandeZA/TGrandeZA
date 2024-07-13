@@ -1,4 +1,4 @@
-👋 Hi, I’m @TGrandeZA
+👋 Hi, I’m Takudzwa Mucheki
 
 - 🌱 I’m currently learning functional programming, data structures and algorithms in python
 - 📫 muchekitakudzwa@gmail.com
