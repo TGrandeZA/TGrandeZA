@@ -1,7 +1,6 @@
 👋 Hi, I’m Takudzwa Mucheki
 
-- ⚡ Working towards having a diverse programming and data engineering skillset.
-- 🏫 Wits 2nd Year Information Systems student .
+- 🏫 Wits Final Year Information Systems Student.
 - 📫 muchekitakudzwa@gmail.com
 - 🌏 South Africa
   
