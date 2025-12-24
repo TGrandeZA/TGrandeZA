@@ -1,6 +1,5 @@
 👋 Hi, I’m Takudzwa Mucheki
 
-- 🏫 Wits Final Year Information Systems Student.
 - 📫 muchekitakudzwa@gmail.com
 - 🌏 South Africa
   
